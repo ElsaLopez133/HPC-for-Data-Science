@@ -54,7 +54,7 @@ If you don't specify queue, it goes to the short queue
 ## Commands cheat sheet
 
 Promote files from local to the cluster (no longer needed if you use the git repo on login node)
-<code>scp program-output ernest.perkowski@hpc.unitn.it:/home/ernest.perkowski</code>
+<code>scp program-output elsa.lopez-perez@hpc.unitn.it:/home/elsa.lopez-perez</code>
 
 Build an executable on the cluster
 <code>mpicc -g -Wall -o mpi-hello-world mpi-hello-world.c</code>
